@@ -48,7 +48,7 @@ Proyek ini menyediakan sejumlah endpoint API untuk interaksi dengan data keluarg
 Dokumen ini berisi spesifikasi teknis lengkap untuk API Silsilah Keluarga, yang memungkinkan manajemen komprehensif data anggota keluarga.
 
 ## 🌐 Endpoint Utama
-Base URL: `https://familytree.classy.id/`
+Base URL: `https://`
 
 ## 📡 Daftar API Endpoints
 
